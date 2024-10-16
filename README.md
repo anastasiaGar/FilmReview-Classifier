@@ -2,7 +2,6 @@
 
 The project aimed to classify movie reviews from the IMDB dataset using three different machine learning algorithms: Naïve Bayes, Random Forest, and Logistic Regression.
 
-
 Part A: Custom Implementations
 Naïve Bayes:
 -Utilized Keras's imdb.load_data to load and preprocess the data, with parameters set to m=500, n=0.9, and k=50.
